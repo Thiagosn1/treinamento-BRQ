@@ -188,7 +188,7 @@ namespace Lista3
             {
                 for (int i = 1; i < 11; i++)
                 {
-                    Console.WriteLine($"5 X {i} = {i * 5}");
+                    Console.WriteLine($"7 X {i} = {i * 7}");
                 }
             }
 
